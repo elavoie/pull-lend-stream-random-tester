@@ -1,0 +1,24 @@
+{
+  "name": "pull-lend-stream-random-tester",
+  "version": "1.0.0",
+  "description": "Test random interleavings of pull-lend-stream.",
+  "main": "interleaving.js",
+  "scripts": {
+    "test": "./interleaving"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elavoie/pull-lend-stream-random-tester.git"
+  },
+  "author": "Erick Lavoie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elavoie/pull-lend-stream-random-tester/issues"
+  },
+  "homepage": "https://github.com/elavoie/pull-lend-stream-random-tester#readme",
+  "dependencies": {
+    "pull-lend-stream": "^1.2.2",
+    "pull-stream": "^3.6.8",
+    "pull-stream-protocol-checker": "^1.2.0"
+  }
+}
