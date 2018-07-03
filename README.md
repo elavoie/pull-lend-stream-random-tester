@@ -113,7 +113,7 @@ Example:
 An interleaving can also be invoked programmatically.
 
 ````
-    var interleaving = require('./interleaving.js')
+    var interleaving = require('pull-lend-stream-random-tester')
 ````
 
 ## interleaving(options)
