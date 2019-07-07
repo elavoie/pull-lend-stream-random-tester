@@ -16,7 +16,7 @@ From the seed, one of 4 cases will be chosen with equal probabilities:
    terminates normally. Outputs will be requested until done or error.
 2. Similar to 1. but the input terminates with an error.
 3. The number of inputs is potentially infinite. Output will be aborted
-   normally after *count* values have be received.
+   normally after *count* values have been received.
 4. Similar to 3. but the output fails rather than aborts.
 
 During execution, one of the next actions may be chosen at random (if available):
